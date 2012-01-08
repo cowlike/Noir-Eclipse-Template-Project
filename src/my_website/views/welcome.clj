@@ -6,5 +6,5 @@
         hiccup.page-helpers))
 
 (defpage "/welcome" []
-         (common/layout
-           [:p "Welcome to my-website"]))
+  (common/layout
+    [:p "Welcome to my-website"]))
